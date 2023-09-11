@@ -3,8 +3,6 @@
 # created by Ben Rose of the Patterson lab in September 2023
 
 
-# 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 ghub aceess
-
 # import statements: these are other peoples' codes which are used to
 import matplotlib.pyplot as plt
 import numpy as np

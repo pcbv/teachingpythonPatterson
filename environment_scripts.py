@@ -1,7 +1,7 @@
 # These are a collection of scripts required for other needs. I have added these to the repository so you may use
 # them in your own scripts.
 # created by Ben Rose of the Patterson lab in September 2023
-# eke
+
 
 # import statements: these are other peoples' codes which are used to
 import matplotlib.pyplot as plt

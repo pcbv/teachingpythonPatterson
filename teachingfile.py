@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt  # pyplot for data visualization
 from environment_scripts import colorpicker, imagesaver  # premade environment scripts
 from matplotlib.ticker import MultipleLocator  # needed for ticks
 import scipy as sp  # smoothing and linear regression
-# eke
+
 
 
 # set up classes and functions! This will make everything so much easier
